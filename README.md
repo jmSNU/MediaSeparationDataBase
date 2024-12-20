@@ -14,17 +14,23 @@ The dataset is constructed through a multi-step process, as illustrated below:
 ![Overview](./figures/overview.png)
 
 ## STT Result for Media Source Separation
-The following visualization highlights the Speech-to-Text (STT) evaluation results, demonstrating the effectiveness of our approach:
+The following visualization highlights the Speech-to-Text (STT) evaluation results on [Whisper-turbo](https://huggingface.co/openai/whisper-large-v3-turbo), demonstrating the effectiveness of our approach:
 ![STT](./figures/stt.png)
 
 ## Demonstration
 We provide a demonstration of separation results produced by HT Demucs trained on this dataset.
 Also, as a baseline, we provide the separation results produced by SepReformer and HT Demucs trained on MUSDB18.
 ### Sample 1
-- Original Source: [Listen](https://drive.google.com/file/d/1NBfCYshEqUbPuzqC8xNdnbNeQDj1-b06/view?usp=share_link) 
-- SepReformer: [Listen](https://drive.google.com/file/d/18BKCgBjnK0cPLMzY8_f-adbjp3zVFZOK/view?usp=share_link) 
-- HT Demucs (MUSDB18): [Listen](https://drive.google.com/file/d/1HA4zj8_Du6w1YB12RPZmL10mAgPMTyC-/view?usp=share_link) 
-- HT Demucs (MSDB): [Listen](https://drive.google.com/file/d/1nfmsudeqOPfrdIrilCejjGyOg1A1poSa/view?usp=share_link)
+- [Original Source](https://drive.google.com/file/d/1NBfCYshEqUbPuzqC8xNdnbNeQDj1-b06/view?usp=share_link) 
+- [SepReformer](https://drive.google.com/file/d/18BKCgBjnK0cPLMzY8_f-adbjp3zVFZOK/view?usp=share_link) 
+- [HT Demucs (MUSDB18)](https://drive.google.com/file/d/1HA4zj8_Du6w1YB12RPZmL10mAgPMTyC-/view?usp=share_link) 
+- [HT Demucs (MSDB)](https://drive.google.com/file/d/1nfmsudeqOPfrdIrilCejjGyOg1A1poSa/view?usp=share_link)
+
+## Sample 2
+- [Original Source](https://drive.google.com/file/d/1Jkoyw3S12OaIDwBUL2gYpRjzsOT0t-JG/view?usp=share_link) 
+- [SepReformer](https://drive.google.com/file/d/1ibWwxcFJBVc3KINMYBgcpWwizynN35QE/view?usp=share_link) 
+- [HT Demucs (MUSDB18)](https://drive.google.com/file/d/1Z1hU0tQNZW_nbxmwEBMZ0p-2twt-IbNF/view?usp=share_link) 
+- [HT Demucs (MSDB)](https://drive.google.com/file/d/1rLgZtINpRQTd8RUM6K0Uxh2VHyY_GDs7/view?usp=share_link)
 
 ## Workspace Structure
 The following directory structure outlines the organization of raw and processed data:
