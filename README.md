@@ -18,8 +18,8 @@ The following visualization highlights the Speech-to-Text (STT) evaluation resul
 ![STT](./figures/stt.png)
 
 ## Demonstration
-We provide a demonstration of separation results produced by HT Demucs trained on this dataset.
-Also, as a baseline, we provide the separation results produced by SepReformer and HT Demucs trained on MUSDB18.
+We provide a demonstration of separation results produced by [HT Demucs](https://github.com/facebookresearch/demucs) trained on this dataset.
+Also, as a baseline, we provide the separation results produced by [SepReformer](https://github.com/dmlguq456/SepReformer) and HT Demucs trained on MUSDB18.
 ### Sample 1
 - [Original Source](https://drive.google.com/file/d/1NBfCYshEqUbPuzqC8xNdnbNeQDj1-b06/view?usp=share_link) 
 - [SepReformer](https://drive.google.com/file/d/18BKCgBjnK0cPLMzY8_f-adbjp3zVFZOK/view?usp=share_link) 
