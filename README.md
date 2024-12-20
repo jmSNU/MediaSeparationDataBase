@@ -21,10 +21,10 @@ The following visualization highlights the Speech-to-Text (STT) evaluation resul
 We provide a demonstration of separation results produced by HT Demucs trained on this dataset.
 Also, as a baseline, we provide the separation results produced by SepReformer and HT Demucs trained on MUSDB18.
 ### Sample 1
-* Original Source : <iframe src="https://drive.google.com/file/d/1NBfCYshEqUbPuzqC8xNdnbNeQDj1-b06/view?usp=share_link" width="640" height="80" allow="autoplay"></iframe>
-* SepReformer :  <iframe src="https://drive.google.com/file/d/18BKCgBjnK0cPLMzY8_f-adbjp3zVFZOK/view?usp=share_link" width="640" height="80" allow="autoplay"></iframe>
-* HT Demucs(MUSDB18) : <iframe src="https://drive.google.com/file/d/1HA4zj8_Du6w1YB12RPZmL10mAgPMTyC-/view?usp=share_link" width="640" height="80" allow="autoplay"></iframe>
-* HT Demucs(MSDB) : <iframe src="https://drive.google.com/file/d/1nfmsudeqOPfrdIrilCejjGyOg1A1poSa/view?usp=share_link" width="640" height="80" allow="autoplay"></iframe>
+- Original Source: [Listen](https://drive.google.com/file/d/1NBfCYshEqUbPuzqC8xNdnbNeQDj1-b06/view?usp=share_link) 
+- SepReformer: [Listen](https://drive.google.com/file/d/18BKCgBjnK0cPLMzY8_f-adbjp3zVFZOK/view?usp=share_link) 
+- HT Demucs (MUSDB18): [Listen](https://drive.google.com/file/d/1HA4zj8_Du6w1YB12RPZmL10mAgPMTyC-/view?usp=share_link) 
+- HT Demucs (MSDB): [Listen](https://drive.google.com/file/d/1nfmsudeqOPfrdIrilCejjGyOg1A1poSa/view?usp=share_link)
 
 ## Workspace Structure
 The following directory structure outlines the organization of raw and processed data:
