@@ -1,6 +1,8 @@
-# MediaSeparationDatabase
+# MediaSeparationDataBase
 This repository provides the dataset designed for training music source separation models on real-world media content. 
 The dataset integrates multiple audio sources, enabling advanced processing for speech and music separation.
+
+[Paper](https://drive.google.com/file/d/1maNvkurRR2gw0laRt_-mgCgiekVCLWhF/view?usp=share_link)
 
 ## Quick Start
 Run the following command to generate the dataset using the default configuration:  
