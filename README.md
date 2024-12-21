@@ -2,7 +2,9 @@
 This repository provides the dataset designed for training music source separation models on real-world media content. 
 The dataset integrates multiple audio sources, enabling advanced processing for speech and music separation.
 
-[Paper](https://drive.google.com/file/d/1maNvkurRR2gw0laRt_-mgCgiekVCLWhF/view?usp=share_link)
+## 📝Paper
+For detailed methodology, experiments, and results, please refer to our paper:  
+**[TOWARDS REAL-WORLD MEDIA SEPARATION: ENHANCING MUSDB18 WITH OPEN-SOURCE SPEECH DATA FOR SPEECH AND MUSIC PROCESSING](https://drive.google.com/file/d/1maNvkurRR2gw0laRt_-mgCgiekVCLWhF/view?usp=share_link)**  
 
 ## Quick Start
 Run the following command to generate the dataset using the default configuration:  
